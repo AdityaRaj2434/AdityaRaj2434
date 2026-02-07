@@ -1,6 +1,6 @@
 # Aditya Raj
 
-Junior Software Developer | Python Learner | CS Graduate
+Junior Software Developer | Python with AI Learner | CS Graduate
 
 ---
 
@@ -29,8 +29,8 @@ consistently through hands-on practice.
 
 **Languages**
 - Python (primary)
-- JavaScript (basic)
-- HTML & CSS (basic)
+- JavaScript (Intermediate)
+- HTML & CSS (Intermediate)
 
 **Programming Concepts**
 - Conditional logic
