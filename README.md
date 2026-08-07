@@ -14,16 +14,6 @@ Python Developer • Generative AI Engineer • Agentic AI Builder
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Generative+AI+Engineer;Python+Developer;Building+Production+AI+Systems;LangChain+%7C+RAG+%7C+FAISS;OpenAI+%7C+Claude+%7C+Gemini;Agentic+AI+Developer" />
 </p>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=AdityaRaj2434&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/AdityaRaj2434?style=for-the-badge&color=58A6FF"/>
-
-<img src="https://img.shields.io/github/stars/AdityaRaj2434?affiliations=OWNER&style=for-the-badge&color=58A6FF"/>
-
-</p>
-
 ---
 
 <p align="center">
