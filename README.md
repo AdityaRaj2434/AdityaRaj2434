@@ -3,7 +3,7 @@
 <!-- ========================= -->
 
 <h1 align="center">
-Hi 👋, I'm <span style="color:#58A6FF;">Aditya Raj</span>
+Hi, I'm <span style="color:#58A6FF;">Aditya Raj</span>
 </h1>
 
 <h3 align="center">
@@ -22,6 +22,20 @@ Python Developer • Generative AI Engineer • Agentic AI Builder
 
 </p>
 
+---
+# 💼 Open For
+
+```text
+✔ Python Developer
+
+✔ Generative AI Engineer
+
+✔ AI Engineer
+
+✔ Backend Developer
+
+✔ Agentic AI Developer
+```
 ---
 
 # 🚀 About Me
@@ -393,6 +407,7 @@ NumPy
 
 📖 DOI: 10.1201/9781003675242-35
 
+---
 
 # 🏆 Achievements
 
@@ -404,39 +419,6 @@ NumPy
 
 🎓 B.Tech Computer Science Engineering
 
----
-
-# 💼 Open For
-
-```text
-✔ Python Developer
-
-✔ Generative AI Engineer
-
-✔ AI Engineer
-
-✔ Backend Developer
-
-✔ LLM Application Developer
-
-✔ Agentic AI Developer
-```
-
----
-
-<!-- ========================= -->
-<!--      GITHUB ANALYTICS     -->
-<!-- ========================= -->
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AdityaRaj2434&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaRaj2434&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -448,46 +430,26 @@ NumPy
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AdityaRaj2434&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
 
 ---
 
----
-
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<picture>
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/AdityaRaj2434/AdityaRaj2434/output/github-snake-dark.svg"/>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/AdityaRaj2434/AdityaRaj2434/output/github-snake.svg"/>
-
-<img
-alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/AdityaRaj2434/AdityaRaj2434/output/github-snake.svg"/>
-
-</picture>
-
-</p>
-
-<p align="center">
-
-<i>Every contribution is another step toward building better AI systems.</i>
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/AdityaRaj2434/AdityaRaj2434/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/AdityaRaj2434/AdityaRaj2434/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/AdityaRaj2434/AdityaRaj2434/output/github-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
