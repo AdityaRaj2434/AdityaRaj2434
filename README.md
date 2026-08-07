@@ -1,72 +1,153 @@
-# Aditya Raj
+<h1 align="center">Hi 👋, I'm Aditya Raj</h1>
+<h3 align="center">Python Developer | Generative AI Engineer | Agentic AI Enthusiast</h3>
 
-Junior Software Developer | Python with AI Learner | CS Graduate
-
----
-
-## About Me
-
-I am a Computer Science Engineering graduate with a strong interest in 
-Python development and problem-solving. I am currently focused on building 
-a solid foundation in core programming concepts and developing practical 
-projects as preparation for junior software and Python developer roles.
-
-I believe in learning by building, writing clean code, and improving 
-consistently through hands-on practice.
+<p align="center">
+I build AI applications using Python, LangChain, RAG pipelines, LLM APIs, and autonomous agents.
+Currently focused on creating production-style AI systems instead of simple chatbot demos.
+</p>
 
 ---
 
-## Current Focus
+## 🚀 About Me
 
-- Strengthening Python fundamentals (logic, loops, data structures)
-- Building small but complete Python projects
-- Maintaining daily coding consistency on GitHub
-- Preparing for junior software / backend roles
+- 🎓 B.Tech Computer Science Engineering (2025)
+- 🏆 1st Prize Winner – 24 Hour Python Full Stack Hackathon
+- 📖 Published Researcher (Taylor & Francis)
+- 🤖 Interested in Agentic AI, Multi-Agent Systems and LLM Applications
+- 🌱 Currently learning:
+  - LangGraph
+  - Advanced Agentic Workflows
+  - FastAPI
+  - Production AI Systems
 
 ---
 
-## Technical Skills
+## 💻 Tech Stack
 
-**Languages**
-- Python (primary)
-- JavaScript (Intermediate)
-- HTML & CSS (Intermediate)
+### AI / Generative AI
+- LangChain
+- LangGraph
+- RAG Pipelines
+- FAISS
+- Vector Databases
+- Prompt Engineering
+- AI Agents
+- OpenAI API
+- Anthropic Claude API
+- Google Gemini API
+- Hugging Face
 
-**Programming Concepts**
-- Conditional logic
-- Loops & control flow
-- Functions
-- Basic data structures (lists, dictionaries)
+### Python
 
-**Tools**
-- Git & GitHub
+- Python
+- OOP
+- NumPy
+- Pandas
+- OpenCV
+- Flask (Basics)
+- FastAPI (Basics)
+
+### Database
+
+- SQL
+- Query Optimization Basics
+
+### Web
+
+- HTML
+- CSS
+- JavaScript
+
+### Tools
+
+- Git
+- GitHub
 - VS Code
-- Basic command line usage
+- Jupyter Notebook
+- Google Colab
 
 ---
 
-## Featured Projects
+# 🚀 Featured Projects
 
-- **IntelliText**  
-  AI-powered document interaction tool using Python and NLP techniques.
+## 🔹 Fusion Forge — Agentic AI Platform
 
-- **Python Foundations**  
-  Daily Python practice repository covering fundamentals and logic building.
+Multi-agent AI platform built using LangChain.
+
+### Features
+
+- RAG Pipeline
+- FAISS Vector Store
+- Document Question Answering
+- Safe Python Code Execution
+- YouTube Summarizer
+- Persistent AI Chat
+- Web Search Integration
+
+Tech Stack
+
+Python • LangChain • FAISS • Streamlit • LLM APIs
 
 ---
 
-## What I'm Looking For
+## 🔹 Agentic Voice AI Assistant (In Development)
 
-- Entry-level / fresher roles in:
-  - Software Development
-  - Python Development
-  - Backend / Junior Engineer positions
+Jarvis-style AI assistant capable of:
 
-I am open to learning on the job and growing with the team.
+- Speech Recognition
+- LLM Reasoning
+- Tool Calling
+- Memory
+- Text-to-Speech
+- Autonomous Decision Making
+
+Tech Stack
+
+Python • OpenAI API • LangChain
 
 ---
 
-## Connect With Me
+## 🔹 Fake Currency Detection
 
-- LinkedIn: https://www.linkedin.com/in/aditya-raj-31b3bb175
-- GitHub: https://github.com/Salvatore2OP
+Computer Vision project for detecting counterfeit notes.
+
+Tech Stack
+
+Python • OpenCV • Machine Learning
+
+---
+
+# 🏅 Achievements
+
+🥇 1st Prize — Python Full Stack Hackathon (Brainovision)
+
+📖 Published Book Chapter
+Taylor & Francis (2025)
+
+🎯 IELTS C1 (Advanced)
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaRaj2434&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaRaj2434&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaRaj2434&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- Email: adirajad2629@gmail.com
+- LinkedIn: https://linkedin.com/in/adityaraj2434
+- GitHub: https://github.com/AdityaRaj2434
+
+---
+
+⭐ *Building AI products that solve real-world problems.*
