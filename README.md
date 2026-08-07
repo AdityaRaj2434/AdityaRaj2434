@@ -285,15 +285,6 @@ Fusion Forge is a production-inspired multi-agent AI platform capable of underst
 
 <br>
 
-<p align="center">
-
-<a href="YOUR_REPOSITORY_LINK">
-
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
-
-</a>
-
-</p>
 
 ---
 
@@ -353,15 +344,6 @@ Prompt Engineering
 
 ---
 
-<p align="center">
-
-<a href="YOUR_REPOSITORY_LINK">
-
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
-
-</a>
-
-</p>
 
 ---
 
@@ -397,16 +379,6 @@ NumPy
 
 ---
 
-<p align="center">
-
-<a href="YOUR_REPOSITORY_LINK">
-
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
-
-</a>
-
-</p>
-
 ---
 
 # 📖 Research Publication
@@ -419,13 +391,8 @@ NumPy
 
 📅 2025
 
-📖 DOI:
+📖 DOI: 10.1201/9781003675242-35
 
-```
-10.1201/9781003675242-35
-```
-
----
 
 # 🏆 Achievements
 
@@ -493,14 +460,6 @@ NumPy
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaRaj2434&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
 ---
 
 # 🐍 Contribution Snake
@@ -510,11 +469,11 @@ NumPy
 <picture>
 
 <source
-media="(prefers-color-scheme: dark)"
+media="(prefers-color-scheme: light)"
 srcset="https://raw.githubusercontent.com/AdityaRaj2434/AdityaRaj2434/output/github-snake-dark.svg"/>
 
 <source
-media="(prefers-color-scheme: light)"
+media="(prefers-color-scheme: dark)"
 srcset="https://raw.githubusercontent.com/AdityaRaj2434/AdityaRaj2434/output/github-snake.svg"/>
 
 <img
