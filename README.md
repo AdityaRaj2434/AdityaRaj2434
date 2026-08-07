@@ -7,6 +7,26 @@ Currently focused on creating production-style AI systems instead of simple chat
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/AdityaRaj2434/AdityaRaj2434/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/AdityaRaj2434/AdityaRaj2434/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/AdityaRaj2434/AdityaRaj2434/output/github-snake.svg"
+    />
+  </picture>
+</p>
+
+---
 
 ## 🚀 About Me
 
@@ -138,25 +158,6 @@ Taylor & Francis (2025)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaRaj2434&layout=compact&theme=tokyonight"/>
 
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/AdityaRaj2434/AdityaRaj2434/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/AdityaRaj2434/AdityaRaj2434/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/AdityaRaj2434/AdityaRaj2434/output/github-snake.svg"
-    />
-  </picture>
 </p>
 
 ---
